@@ -35,5 +35,8 @@
   "[html]": {
     "editor.defaultFormatter": "mohd-akram.vscode-html-format"
   },
-  "vetur.format.defaultFormatter.html": "prettier"
+  "vetur.format.defaultFormatter.html": "prettier",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  }
 }
