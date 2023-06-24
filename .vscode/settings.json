@@ -33,7 +33,7 @@
     "compounds": []
   },
   "[html]": {
-    "editor.defaultFormatter": "mohd-akram.vscode-html-format"
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "vetur.format.defaultFormatter.html": "prettier",
   "[css]": {
